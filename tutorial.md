@@ -4,8 +4,11 @@
 #### Hello world
 ##### Hello world
 ###### Hello world
-Hello world is a **heading**.
-Hello world is also a *heading*.
+Hello world is a **heading**.  
+Hello world is also a *heading*.  
+***heading***  
+
+
 
 A couple of lines separated.  
 But not really.  
@@ -31,9 +34,27 @@ A list:
 
 Another list:
 1. This
+   - this  
 2. Is
 3. A
 4. List
+
+Here is a simple footnote[^1]
+
+[^1]: My reference
+- [x] Milestone
+
+>[!NOTE]
+>This must be noted
+
+>[!IMPORTANT]
+>This is important
+
+>[!WARNING]
+>Watch out
+
+:+1: :shipit:
+
 
 ~~Hello world~~
 
